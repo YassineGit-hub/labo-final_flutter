@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "131281577292",
+    "project_id": "espaceetudiants-862a3",
+    "storage_bucket": "espaceetudiants-862a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131281577292:android:f65503da4ab879c8cf1be9",
+        "android_client_info": {
+          "package_name": "com.example.labo_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131281577292-mcd0codm5488189tnhesfob4b9npao9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByvbvkZScEiobyVN-nYT01efPg4gg_KB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131281577292-mcd0codm5488189tnhesfob4b9npao9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
